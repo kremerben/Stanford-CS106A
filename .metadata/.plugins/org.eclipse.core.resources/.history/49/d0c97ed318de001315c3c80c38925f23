@@ -1,0 +1,40 @@
+
+import acm.util.*;
+import acm.program.*;
+
+
+
+public class FinalTestQuestion3 extends ConsoleProgram {
+
+	public void run() {
+		println("Program to check a word ladder.");
+		String firstWord = readLine("Enter a sequence of words ending with a blank line.");
+		while (!firstWord.isEmpty());
+			if (isEnglishWord(firstWord)) {
+				
+			}
+		
+		
+		
+	}
+	
+	
+	
+	
+	public boolean isEnglishWord(String str) {
+		return true;
+	}
+
+	
+	private Lexicon lexicon = new Lexicon("english.dat");
+	private String firstWord;
+	
+	
+	
+
+}
+
+
+
+//public boolean isEnglishWord(String str)
+//

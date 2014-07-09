@@ -1,0 +1,275 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396341845735
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1396341875618
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1396341876747
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396341965594
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396341965606
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1396342004986
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1396342007855
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396342015495
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396342015510
+executed,command,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.edit.text.java.toggle.comment",1396342050911
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396342056972
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396342056977
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396342057282
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396342058414
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396342059526
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396342061053
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396342115876
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396342117576
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396342120046
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396342460942
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380713627
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380724361
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380728191
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380730325
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380731578
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380774255
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380776596
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380776732
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380777034
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380781746
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396380782121
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396380782489
+closed,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380782669
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380782696
+closed,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380782818
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.ide.ant",1396380786461
+stopped,bundle,org.eclipse.ant.ui,3.5.0.v20100427,"org.eclipse.ant.ui",1396380786546
+stopped,bundle,org.eclipse.ant.launching,1.0.1.v20101020_r362,"org.eclipse.ant.launching",1396380786700
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20100513,"org.eclipse.equinox.p2.ui.sdk",1396380786775
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.java.tasks",1396380786775
+stopped,bundle,org.eclipse.mylyn.java.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.java.ui",1396380786775
+stopped,bundle,org.eclipse.jdt.junit,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit",1396380786775
+stopped,bundle,org.eclipse.jdt.apt.ui,3.3.300.v20100513-0845,"org.eclipse.jdt.apt.ui",1396380786824
+stopped,bundle,org.eclipse.jdt.debug.ui,3.5.2.v20100928a_r362,"org.eclipse.jdt.debug.ui",1396380786825
+stopped,bundle,edu.stanford.cs106,1.0.0,"edu.stanford.cs106",1396380786825
+stopped,bundle,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui",1396380786944
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.500.v201004290328,"org.eclipse.wst.dtd.ui",1396380786988
+stopped,bundle,org.eclipse.wst.xsd.ui,1.2.304.v201101251958,"org.eclipse.wst.xsd.ui",1396380787065
+stopped,bundle,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui",1396380787134
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1396380823804
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1396380823804
+started,bundle,org.eclipse.osgi,3.6.2.R36x_v20110210,"org.eclipse.osgi",1396380823805
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20100503,"org.eclipse.equinox.simpleconfigurator",1396380823805
+started,bundle,com.ibm.icu,4.2.1.v20100412,"com.ibm.icu",1396380823838
+started,bundle,org.eclipse.compare.core,3.5.101.R36x_v20100929-0800,"org.eclipse.compare.core",1396380823875
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20100505-1235,"org.eclipse.core.contenttype",1396380823875
+started,bundle,org.eclipse.core.databinding.observable,1.3.0.I20100601-0800,"org.eclipse.core.databinding.observable",1396380823933
+started,bundle,org.eclipse.core.expressions,3.4.200.v20100505,"org.eclipse.core.expressions",1396380823934
+started,bundle,org.eclipse.core.filebuffers,3.5.100.v20100520-0800,"org.eclipse.core.filebuffers",1396380823934
+started,bundle,org.eclipse.core.filesystem,1.3.1.R36x_v20100727-0745,"org.eclipse.core.filesystem",1396380823986
+started,bundle,org.eclipse.core.jobs,3.5.1.R36x_v20100824,"org.eclipse.core.jobs",1396380823986
+started,bundle,org.eclipse.core.net,1.2.100.I20100511-0800,"org.eclipse.core.net",1396380823991
+started,bundle,org.eclipse.core.resources,3.6.1.R36x_v20110131-1630,"org.eclipse.core.resources",1396380823993
+started,bundle,org.eclipse.core.runtime,3.6.0.v20100505,"org.eclipse.core.runtime",1396380823993
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1396380824063
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20100517,"org.eclipse.core.runtime.compatibility.auth",1396380824064
+started,bundle,org.eclipse.core.variables,3.2.400.v20100505,"org.eclipse.core.variables",1396380824114
+started,bundle,org.eclipse.debug.core,3.6.0.v20100519,"org.eclipse.debug.core",1396380824121
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201102081640,"org.eclipse.epp.usagedata.gathering",1396380824172
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201102081640,"org.eclipse.epp.usagedata.recording",1396380824177
+started,bundle,org.eclipse.equinox.app,1.3.1.R36x_v20100803,"org.eclipse.equinox.app",1396380824177
+started,bundle,org.eclipse.equinox.common,3.6.0.v20100503,"org.eclipse.equinox.common",1396380824177
+started,bundle,org.eclipse.equinox.ds,1.2.1.R36x_v20100803,"org.eclipse.equinox.ds",1396380824178
+started,bundle,org.eclipse.equinox.event,1.2.0.v20100503,"org.eclipse.equinox.event",1396380824178
+started,bundle,org.eclipse.equinox.p2.core,2.0.3.R36x_v20110111,"org.eclipse.equinox.p2.core",1396380824178
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.203.R36x_v20101220,"org.eclipse.equinox.p2.directorywatcher",1396380824178
+started,bundle,org.eclipse.equinox.p2.engine,2.0.1.R36x_v20110201,"org.eclipse.equinox.p2.engine",1396380824276
+started,bundle,org.eclipse.equinox.p2.metadata,2.0.1.R36x_v20101202,"org.eclipse.equinox.p2.metadata",1396380824337
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.1.0.v20100513,"org.eclipse.equinox.p2.metadata.repository",1396380824354
+started,bundle,org.eclipse.equinox.p2.operations,2.0.0.v20100510,"org.eclipse.equinox.p2.operations",1396380824389
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.2.R36x_v20110114,"org.eclipse.equinox.p2.reconciler.dropins",1396380824417
+started,bundle,org.eclipse.equinox.p2.repository,2.0.2.R36x_v20110111-1500,"org.eclipse.equinox.p2.repository",1396380824531
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20100507-1815,"org.eclipse.equinox.p2.ui.sdk.scheduler",1396380824531
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.101.R36x_v20100823,"org.eclipse.equinox.p2.updatechecker",1396380824592
+started,bundle,org.eclipse.equinox.preferences,3.3.0.v20100503,"org.eclipse.equinox.preferences",1396380824592
+started,bundle,org.eclipse.equinox.registry,3.5.0.v20100503,"org.eclipse.equinox.registry",1396380824611
+started,bundle,org.eclipse.equinox.security,1.0.200.v20100503,"org.eclipse.equinox.security",1396380824638
+started,bundle,org.eclipse.equinox.util,1.0.200.v20100503,"org.eclipse.equinox.util",1396380824638
+started,bundle,org.eclipse.help,3.5.0.v20100524,"org.eclipse.help",1396380824722
+started,bundle,org.eclipse.jdt.apt.core,3.3.402.R36_v20110120-1000,"org.eclipse.jdt.apt.core",1396380824737
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.301.R36_v20100727-0110,"org.eclipse.jdt.apt.pluggable.core",1396380824745
+started,bundle,org.eclipse.jdt.core,3.6.2.v_A76_R36x,"org.eclipse.jdt.core",1396380824798
+started,bundle,org.eclipse.jdt.core.manipulation,1.3.0.v20100520-0800,"org.eclipse.jdt.core.manipulation",1396380824798
+started,bundle,org.eclipse.jdt.launching,3.5.200.v20110105_r362,"org.eclipse.jdt.launching",1396380824867
+started,bundle,org.eclipse.jdt.launching.macosx,3.2.100.v20100505,"org.eclipse.jdt.launching.macosx",1396380824867
+started,bundle,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui",1396380824867
+started,bundle,org.eclipse.jface,3.6.2.M20110210-1200,"org.eclipse.jface",1396380824887
+started,bundle,org.eclipse.jsch.core,1.1.200.I20100505-1245,"org.eclipse.jsch.core",1396380824887
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.101.r362_v20101117-0800,"org.eclipse.ltk.core.refactoring",1396380824944
+started,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1396380824976
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1396380824977
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1396380825003
+started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1396380825003
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1396380825004
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1396380825004
+started,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1396380825090
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.1.v20110131-0100-e3x,"org.eclipse.mylyn.monitor.ui",1396380825090
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui",1396380825104
+started,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1396380825105
+started,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1396380825131
+started,bundle,org.eclipse.team.core,3.5.101.R36x_v20110203-1036,"org.eclipse.team.core",1396380825162
+started,bundle,org.eclipse.team.cvs.core,3.3.301.R36x_v20110119-0815,"org.eclipse.team.cvs.core",1396380825252
+started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1396380825392
+started,bundle,org.eclipse.team.ui,3.5.102.R36x_v20110203-1036,"org.eclipse.team.ui",1396380825438
+started,bundle,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui",1396380825460
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1396380825492
+started,bundle,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.editors",1396380825492
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1396380825514
+started,bundle,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.ide",1396380825648
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1396380825668
+started,bundle,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views",1396380825669
+started,bundle,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"org.eclipse.ui.workbench",1396380825711
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1396380825790
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1396380825790
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1396380825816
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1396380825840
+started,bundle,edu.stanford.cs106,1.0.0,"edu.stanford.cs106",1396380825840
+os,sysinfo,,,"macosx",1396380825844
+arch,sysinfo,,,"x86",1396380825844
+ws,sysinfo,,,"cocoa",1396380825844
+locale,sysinfo,,,"en_US",1396380825844
+processors,sysinfo,,,"8",1396380825844
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1396380825844
+java.runtime.version,sysinfo,,,"1.6.0_65-b14-462-11M4609",1396380825844
+java.specification.name,sysinfo,,,"Java Platform API Specification",1396380825844
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1396380825844
+java.specification.version,sysinfo,,,"1.6",1396380825844
+java.vendor,sysinfo,,,"Apple Inc.",1396380825844
+java.version,sysinfo,,,"1.6.0_65",1396380825844
+java.vm.info,sysinfo,,,"mixed mode",1396380825844
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1396380825844
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1396380825844
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1396380825844
+java.vm.specification.version,sysinfo,,,"1.0",1396380825844
+java.vm.vendor,sysinfo,,,"Apple Inc.",1396380825844
+java.vm.version,sysinfo,,,"20.65-b04-462",1396380825844
+started,bundle,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui",1396380826703
+opened,view,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui.DebugView",1396380827153
+opened,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1396380827189
+started,bundle,org.eclipse.jdt.debug,3.6.1.v20100715_r361,"org.eclipse.jdt.debug",1396380828776
+started,bundle,org.eclipse.jdt.debug.ui,3.5.2.v20100928a_r362,"org.eclipse.jdt.debug.ui",1396380828937
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396380850994
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396384377682
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396384379314
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396384379321
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396384393130
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396393951464
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396393961485
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394049162
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394082682
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394082766
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394083009
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394083762
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394084574
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394088101
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394088270
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394094960
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394096096
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394097683
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394098376
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394152859
+started,bundle,org.eclipse.jdt.junit,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit",1396394155319
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394162827
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394162834
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394162988
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394163799
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394166320
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394172960
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394194722
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394203443
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394203959
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394205022
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394205027
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394205145
+started,bundle,org.eclipse.mylyn.java.tasks,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.java.tasks",1396394205263
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394206590
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394223026
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394235467
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394235472
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394235589
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394237896
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394250271
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1396394334367
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394335600
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394336807
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1396394341436
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1396394341458
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1396394343002
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1396394343964
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1396394349048
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394350777
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394350783
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394350953
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394353113
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394353530
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394355677
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394365215
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394401926
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394431204
+executed,command,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.edit.text.java.toggle.comment",1396394499746
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1396394507899
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1396394509919
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394510177
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394510397
+executed,command,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.edit.text.java.toggle.comment",1396394512071
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1396394559747
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394561265
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1396394674218
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394675393
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1396394681148
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394683172
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1396394698438
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394699128
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394752119
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394752123
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394752246
+opened,view,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.views.ProblemView",1396394769070
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1396394769099
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394770280
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394773003
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394773009
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394773123
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1396394798180
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394802216
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394812132
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394812140
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394812254
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394813181
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394814380
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394818050
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394840237
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1396394851647
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394855612
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394858536
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394858543
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394858652
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394859206
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394860553
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394863522
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394890284
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394905561
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394905567
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394905731
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394926131
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394926137
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394926148
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394930035
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394938647
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1396394940548
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.redo",1396394942251
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1396394969914
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394971732
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1396394973149
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394974287
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1396394974291
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1396394974412
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396394976920
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396395245073
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396395271748
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396395302890
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396395318985
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1396395338457
+started,bundle,org.eclipse.mylyn.ide.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.ide.ui",1396395358645
+started,bundle,org.eclipse.mylyn.java.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.java.ui",1396395358682

@@ -1,0 +1,33 @@
+import java.awt.Color;
+
+import acm.graphics.GCompound;
+import acm.graphics.GLabel;
+import acm.graphics.GLine;
+import acm.graphics.GRect;
+import acm.util.RandomGenerator;
+
+public class DrawnX extends GCompound {
+
+	public DrawnX(double xVal, double yVal) {
+		//Double?
+		GLine drawLeft = new GLine(xVal-5, yVal-5,xVal+5,yVal+5);
+		GLine drawRight = new GLine(xVal+5,  yVal-5, xVal-5, yVal+5);
+		add(drawLeft);
+		add(drawRight);
+
+		
+//		outline = new GRect(boxWidth, boxHeight);
+//		add(outline);
+//		outline.setFilled(true);
+//		outline.setColor(rgen.nextColor());
+////		outline.setColor(rgen.nextColor());
+//		outline.setFillColor(Color.white);
+//		label = new GLabel(labelName);
+//		add(label, (boxWidth-label.getWidth())/2, (boxHeight-label.getHeight()));
+	}
+	private GRect outline;
+	private GLabel label;
+	
+	private RandomGenerator rgen = RandomGenerator.getInstance();
+
+}

@@ -1,0 +1,18 @@
+
+import java.awt.*;
+import java.util.*;
+import acm.program.*;
+import java.io.*;
+
+
+
+public class WriteToFile extends ConsoleProgram {
+
+	public void init(){
+		
+		
+		
+	}
+	
+	
+}

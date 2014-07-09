@@ -1,0 +1,34 @@
+
+import java.awt.*;
+import java.util.*;
+import acm.program.*;
+import java.io.*;
+
+
+
+/**
+ * WriteToFile Program
+ * @author kremerdesign
+ *
+ * This program opens a file for the user, 
+ * shows what is inside, and asks if the 
+ * user would like to add anything.
+ */
+public class WriteToFile extends ConsoleProgram {
+
+	public void init(){
+		while (filename.isEmpty()) {
+			filename = readLine("Enter filename ");
+		}
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	private String filename;
+	
+}

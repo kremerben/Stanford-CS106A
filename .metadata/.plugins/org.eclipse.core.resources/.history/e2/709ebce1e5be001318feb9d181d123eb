@@ -1,0 +1,90 @@
+/* 
+ * File: FacePamphlet.java
+ * -----------------------
+ * When it is finished, this program will implement a basic social network
+ * management system.
+ */
+
+import acm.program.*;
+import acm.graphics.*;
+import acm.util.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+public class FacePamphlet extends Program 
+					implements FacePamphletConstants {
+
+	/**
+	 * This method has the responsibility for initializing the 
+	 * interactors in the application, and taking care of any other 
+	 * initialization that needs to be performed.
+	 */
+	public void init() {
+		createController();
+		
+		addActionListeners();
+	}
+    
+	private void createController() {
+		//NORTH Controllers
+		nameField = new JTextField(10);
+		add(new JLabel("Name:"), NORTH);
+		add(nameField,NORTH);
+		nameField.addActionListener(this);
+		addButton = new JButton("Add");
+		add(addButton, NORTH);
+		deleteButton = new JButton("Delete");
+		add(deleteButton, NORTH);
+		lookupButton = new JButton("Lookup");
+		add(lookupButton, NORTH);
+		//WEST controllers
+		statusField = new JTextField(10);
+		add(statusField,WEST);
+		statusField.addActionListener(this);
+		chgStatusButton = new JButton("Change Status");
+		add(chgStatusButton, WEST);
+
+		pictureField = new JTextField(10);
+		add(pictureField,WEST);
+		pictureField.addActionListener(this);
+		chgPictureButton = new JButton("Change Picture");
+		add(chgPictureButton, WEST);
+
+		friendField = new JTextField(10);
+		add(friendField,WEST);
+		friendField.addActionListener(this);
+		addFriendButton = new JButton("Add Friend");
+		add(addFriendButton, WEST);
+
+		fpCanvas = new FacePamphletCanvas();
+		add(fpCanvas);
+		
+		
+	}
+  
+    /**
+     * This class is responsible for detecting when the buttons are
+     * clicked or interactors are used, so you will have to add code
+     * to respond to these actions.
+     */
+    public void actionPerformed(ActionEvent e) {
+		// You fill this in as well as add any additional methods
+	}
+
+
+	private JTextField nameField;
+	private JButton addButton;
+	private JButton deleteButton;
+	private JButton lookupButton;
+	private JTextField statusField;
+	private JButton chgStatusButton;
+	private JTextField pictureField;
+	private JButton chgPictureButton;
+	private JTextField friendField;
+	private JButton addFriendButton;
+
+	private FacePamphletCanvas fpCanvas;
+
+    
+    
+}

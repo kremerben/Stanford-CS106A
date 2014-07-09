@@ -1,0 +1,23 @@
+Please answer the following questions and submit them along with your source
+files for the assignment.
+
+1. What specific words did you use to test your syllable-counting code? Why
+   did you choose each of those words as test cases?
+
+
+2. What specific strings did you use to test your tokenize method? Why did you
+   choose those strings?
+   
+   
+3. What specific strings did you use to test your code for counting syllables,
+   words, and sentences in a line of text? Why did you choose those strings?
+   
+   
+4. Find a piece of text of your own choosing and compute its Flesch-Kincaid
+   grade level and Dale-Chall readability scores using the program you've
+   written. What numbers did you get back? Were you at all surprised? (We
+   recommend trying out your program on some text from one of your favorite
+   books; say, one of the Harry Potter titles, Fifty Shades of Grey, or perhaps
+   Karel the Robot Learns Java. Project Gutenberg, located online at
+   http://www.gutenberg.org/, might be a good place to look for older books now
+   in the public domain.)

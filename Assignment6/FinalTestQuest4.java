@@ -1,0 +1,27 @@
+import java.util.*;
+
+public class FinalTestQuest4 {
+
+	public void run() {
+
+
+	}
+	
+	
+	private boolean checkUpperLeftCorner(int[][] matrix) {
+		ArrayList<Integer> toTest = new ArrayList<Integer>();
+		for (int i = 0; i < 3; i++) {
+			for (int j = 0; j < 3; j++) {
+				toTest.add(matrix[i][j]);
+			}
+		}
+		for (int k = 1; k <= 9; k++) {
+			if (!toTest.contains(k)) {
+				return false;
+			}
+		}
+		return true;
+			
+	}
+		
+}

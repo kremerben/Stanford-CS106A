@@ -1,0 +1,25 @@
+import acm.program.*;
+import acm.util.*;
+import java.util.*;
+
+public class FinalTest7 {
+
+	public void run(){
+		
+	}
+	
+	
+	public int commonKeyValuePairs(HashMap<String,String> map1, HashMap<String,String> map2) {
+		int count = 0;
+		Iterator<String> iterator = map1.keySet().iterator();
+		while (iterator.hasNext()) {
+			String key = iterator.next();
+			if (map2.get(key).equals(map1.get(key))) {
+				count++;
+			}
+		}
+		return count;
+	}
+	
+	
+}

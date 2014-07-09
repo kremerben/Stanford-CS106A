@@ -1,0 +1,86 @@
+import java.awt.event.ActionEvent;
+
+import javax.swing.JButton;
+import javax.swing.*;
+
+import acm.graphics.*;
+import acm.program.*;
+import java.awt.event.*;
+import java.util.HashMap;
+import java.util.Map;
+
+
+public class FinalTestNumber2 extends GraphicsProgram {
+
+	public void run() {
+
+		northbutton = new JButton("North");
+		southbutton = new JButton("South");
+		eastbutton = new JButton("East");
+		westbutton = new JButton("West");
+		add(northbutton, SOUTH);
+		add(southbutton, SOUTH);
+		add(westbutton, SOUTH);
+		add(eastbutton, SOUTH);
+		northbutton.addActionListener(this);
+		southbutton.addActionListener(this);
+		eastbutton.addActionListener(this);
+		westbutton.addActionListener(this);
+		
+		//cross = new GCompound();
+		centerX = getWidth()/2;
+		centerY = getHeight()/2;
+//		drawX(centerX, centerY);
+
+		cross = new DrawnX();
+		cross.addActionListener(this);
+		add(cross, centerX, centerY);
+//		pause(1000);
+//		cross.move(-20, 0);
+//		gobj = cross;
+		lastX = centerX;
+		lastY = centerY;
+		addActionListeners();
+		addMouseListeners();
+	}
+	
+	
+	
+	public void actionPerformed(ActionEvent e) {
+		if (e.getSource() == northbutton) {
+			cross.move(0, -20);
+			//drawline
+		} else if (e.getSource() == southbutton) {
+			cross.move(0, 20);
+		} else if (e.getSource() == eastbutton) {
+			cross.move(20, 0);
+		} else if (e.getSource() == westbutton) {
+			cross.move(-20, 0);
+		} else {
+//		println(e.getSource());
+//		cross.move(0, 10);
+		}
+	}
+	
+	private double centerX;
+	private double centerY;
+	private double currentX;
+	private double lastX = centerX;
+	private double currentY;
+	private double lastY = centerY;
+		
+	private GObject gobj; //object being dragged
+
+	private DrawnX cross; //object being dragged
+	private GPoint last; //last mouse position
+
+	public JButton northbutton;
+	private JButton southbutton;
+	private JButton eastbutton;
+	private JButton westbutton;
+
+//	private GCompound DrawnX;
+
+}
+
+
